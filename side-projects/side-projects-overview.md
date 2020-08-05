@@ -4,15 +4,12 @@ title: Side projects
 permalink: /projects/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+On the side of my research activities, I have completed some side programming projects. Have a look!
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+## Pi-estimate ##
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Pi has a very clear definition, it is the ratio of a circle’s circumference to its diameter. It is used daily in science and engineering. However, how do we determine its value?
 
+The project started trying to make a cool visualization using the Monte Carlo method to determine pi. and then moved on to how to determine pi precisely and efficiently.
 
-[jekyll-organization]: https://github.com/jekyll
+Trying to make a [link](/projects/pi-estimate.html)
